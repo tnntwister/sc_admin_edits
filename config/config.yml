@@ -1,0 +1,6 @@
+name: sc_admin_edits
+version: 1.0.0
+author: Scriptami
+ps_versions_compliancy:
+  min: 1.7.0.0
+  max: _PS_VERSION_

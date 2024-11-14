@@ -1,0 +1,23 @@
+{
+    "name": "scriptami/sc_admin_edits",
+    "description": "Scriptami - Back office edits",
+    "license": "AFL-3.0",
+    "authors": [
+      {
+        "name": "François-Xavier Guillois"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "PrestaShop\\Module\\Sc_Admin_Edits\\": "src/"
+      }
+    },
+    "require": {
+      "php": ">=7.1.0"
+    },
+    "config": {
+      "preferred-install": "dist",
+      "prepend-autoloader": false
+    },
+    "type": "prestashop-module"
+  }

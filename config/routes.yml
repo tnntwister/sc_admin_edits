@@ -1,0 +1,8 @@
+admin_edits_configuration_form:
+  path: /sc_admin_edits/configuration
+  methods: [GET, POST]
+  defaults:
+    _controller: 'PrestaShop\Module\Sc_Admin_Edits\Controller\AdminEditsConfigurationController::index'
+    # Needed to work with tab system
+    _legacy_controller: AdminEditsConfiguration
+    _legacy_link: AdminEditsConfiguration

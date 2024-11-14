@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>sc_admin_edits</name>
+    <displayName><![CDATA[Modifications dans le back-office]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Module cr&eacute;&eacute; pour modifier le back office de prestashop]]></description>
+    <author><![CDATA[Fran&ccedil;ois-Xavier Guillois]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
